@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaalpyanikoglu" alt="mustafaalpyanikoglu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Alp" target="blank"><img src="https://img.shields.io/twitter/follow/alp?logo=twitter&style=for-the-badge" alt="alp" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Alp" target="blank"><img src="https://img.shields.io/twitter/follow/Alp?logo=twitter&style=for-the-badge" alt="Alp" /></a> </p>
 
 - 🌱 I’m currently learning **Unity,Python**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alp" height="30" width="40" /></a>
+<a href="https://twitter.com/Alp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mustafaalpyanikoglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustafaalpyanikoglu/" height="30" width="40" /></a>
 <a href="https://instagram.com/alpyanikoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alpyanikoglu" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@malpyanikoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@malpyanikoglu" height="30" width="40" /></a>
