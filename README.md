@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaalpyanikoglu" alt="mustafaalpyanikoglu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/alp" target="blank"><img src="https://img.shields.io/twitter/follow/alp?logo=twitter&style=for-the-badge" alt="alp" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Alp" target="blank"><img src="https://img.shields.io/twitter/follow/alp?logo=twitter&style=for-the-badge" alt="alp" /></a> </p>
 
 - 🌱 I’m currently learning **Unity,Python**
 
