@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Alp</h1>
-<h3 align="center">A game developer who resolute from turkey</h3>
+<h3 align="center">A backend developer who resolute from turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaalpyanikoglu&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaalpyanikoglu" /> </p>
 
