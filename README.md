@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/AlpMustafa9" target="blank"><img src="https://img.shields.io/twitter/follow/AlpMustafa9?logo=twitter&style=for-the-badge" alt="alp" /></a> </p>
 
-- 🌱 I’m currently learning **Unity,Python**
+- 🌱 I’m currently learning **.Net Core, Node.js, Java**
 
 - 📫 How to reach me **malpyanikoglu@gmail.com**
 
