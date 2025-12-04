@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Alp</h1>
-<h3 align="center">A backend developer who resolute from turkey</h3>
+<h3 align="center">A full stack developer who resolute from turkey</h3>
 
-- 🌱 I’m currently learning **ASP.Net, .Net Core, Node.js,**
+- 🌱 I’m currently learning **ASP.Net MVC, .Net Core, NodeJS, NestJS, ReactJS, NextJS, SQL**
 
 - 📝 I regularly write articles on [https://medium.com/@malpyanikoglu](https://medium.com/@malpyanikoglu)
 
